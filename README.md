@@ -9,6 +9,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [LuupのSREチーム紹介](https://zenn.dev/luup/articles/sre-horiuchi-20220829)
+- [プログラミング学習の通過儀礼](https://zenn.dev/mizchi/articles/programming-study-initiation)
+- [NFTチェーン、EthereumかPolygonどっちにする? 真面目にガス手数料を見積った話](https://zenn.dev/pitpa/articles/about-estimating-gas)
+- [@PreviewのついたComposableを使ってスクリーンショットテストする](https://zenn.dev/sobya/articles/9ec45eca8949da)
+- [React開発を快適にするChrome拡張を公開したので見てください！](https://zenn.dev/hand_dot/articles/a1523d8b0449ad)
+- [フロントエンド開発で気をつけていること忘備録](https://zenn.dev/angelecho/articles/fe885638b7753d)
+- [判別可能なUnion型を使用してコンポーネントのバージョン管理をする](https://zenn.dev/a_da_chi/articles/9132d06c4ef053)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
