@@ -9,13 +9,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Terraform 初心者が CDK for Terraform を触ってみた所感 #jawsug_cdk](https://zenn.dev/mayforblue/articles/09574f95fdbf69)
 - [Route 53でドメインの実運用に必要な、ネームサーバ&lpar;NS&rpar;やメールサーバ&lpar;MX/SPF/DKIM&rpar;のひととおりのDNS設定を実施する](https://zenn.dev/sre_aip_tech/articles/db9d01a4d50158)
 - [ヘッドレスブラウザを活用して少しリッチなスタイルのPDFを生成する](https://zenn.dev/moga/articles/gen-rich-pdf-with-headless-browser)
+- [Jiraでクロスチェック担当者ガチャを回す](https://zenn.dev/cazziwork/articles/7ec995a6278464)
 - [gitのcheckoutコマンドには3つ使い方がある](https://zenn.dev/tekihei2317/articles/bbdaf8173f21c9)
 - [Next.js,supabase,GraphQLで作る爆速Twitter Clone!](https://zenn.dev/takpon1751/books/d630fbfa4e03ac)
 - [「ピクセル画像は、Unityで、どれぐらいの大きさに表示されるのか」について](https://zenn.dev/ataka/articles/9d20d6c1d85473)
-- [Productivity Weekly &lpar;2022-08-24号&rpar;](https://zenn.dev/korosuke613/articles/productivity-weekly-20220824)
-- [WSL2 USBカメラ+他のUSB機器 2022年09月06日版](https://zenn.dev/pinto0309/articles/e1432253d29e30)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
