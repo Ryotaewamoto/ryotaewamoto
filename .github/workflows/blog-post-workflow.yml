@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "7"
-                feed_list: "https://zenn.dev/feed"
+                feed_list: "https://zenn.dev/ryota_iwamoto/feed"
